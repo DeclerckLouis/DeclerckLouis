@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hello!  
+My name is Louis, i'm a student System- and Network Administration at Howest Bruges.  
+If you wish to contact me, please do so at one of the links provided under my socials.
+
+## My socials:
+
+ - [GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ - [LinkedIn](https://www.linkedin.com/in/louis-declerck-student)
+ - [louis.declerck@declerck.louis@outlook.com](mailto:declerck.louis@outlook.com)  
+ 
+ 
+
+
+
+
+
+
 
 <!--
 **DeclerckLouis/DeclerckLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
