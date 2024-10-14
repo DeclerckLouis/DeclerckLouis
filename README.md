@@ -1,6 +1,6 @@
 ### Hello!  
-My name is Louis, i'm a student System- and Network Administration at Howest Bruges.  
-If you wish to contact me, please do so at one of the links provided under my socials.
+My name is Louis, i'm an infrastructure engineer with a background in scripting and automation.
+Should you wish to contact me, please do so at one of the links provided under my socials.
 
 ## My socials:
 
