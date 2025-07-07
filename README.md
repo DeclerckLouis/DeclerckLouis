@@ -6,7 +6,8 @@ Should you wish to contact me, please do so at one of the links provided under m
 
  - [GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  - [LinkedIn](https://www.linkedin.com/in/louis-declerck-student)
- - [louis.declerck@declerck.louis@outlook.com](mailto:declerck.louis@outlook.com)  
+ - [My Website](https://louisdeclerck.be)
+ - [declerck.louis@outlook.com](mailto:declerck.louis@outlook.com)  
  
  
 
