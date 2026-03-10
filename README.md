@@ -1,33 +1,34 @@
-### Hello!  
-My name is Louis, i'm an infrastructure engineer with a background in scripting and automation.
-Should you wish to contact me, please do so at one of the links provided under my socials.
+# Hi, I'm Louis Declerck 👋
 
-## My socials:
+I am a **Systems Engineer** and **IT Specialist** passionate about building reliable infrastructure, breaking things in my homelab to learn how they work, and automating everything in between. I specialize in **Infrastructure as Code (IaC)**, **Site Reliability Engineering (SRE)**, and **Network Security**.
 
- - [GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
- - [LinkedIn](https://www.linkedin.com/in/louis-declerck-student)
- - [My Website](https://louisdeclerck.be)
- - [declerck.louis@outlook.com](mailto:declerck.louis@outlook.com)  
- 
- 
+---
 
+### 🚀 What I'm Up To
+* **Infrastructure Management:** Overseeing a distributed international network for **Haerens Group** (9 sites, 6 countries), managing everything from firewalls to servers and switches to ensure 24/7 connectivity.
+* **IT Consulting:** Providing reliable IT architectures and financial digitization workshops for SMBs through **PacketFlow**.
+* **Automation:** Developing "VM-on-request" solutions using **Ansible** and **Terraform** to reduce provisioning time by 80%.
 
+---
 
+### 🛠️ Technical Toolkit
+* **IaC & Automation:** Ansible (Event-Driven), Terraform, Python, Bash, PowerShell.
+* **Virtualization & Orchestration:** Proxmox VE, Kubernetes (k3s), Docker.
+* **Networking:** Fortinet Firewalls, Cilium CNI, IPv6 Routing, NIS2 Compliance.
+* **Identity & Monitoring:** Active Directory/Entra ID, FreeIPA, Zabbix, Netbox.
 
+---
 
+### 🏠 Homelab & Projects
+I enjoy exploring the possibilities of **Self-healing infrastructure** using Zabbix and Event-Driven Ansible.
+* 📖 **Homelab Documentation:** [lab.packetflow.be](https://lab.packetflow.be)
+* 🛰️ **Ongoing Study:** Advanced training on IPv6 addressing and migration strategies at Howest.
 
+---
 
-<!--
-**DeclerckLouis/DeclerckLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with Me
+* **Website:** [packetflow.be](https://packetflow.be)
+* **LinkedIn:** [linkedin.com/in/declercklouis](https://www.linkedin.com/in/declercklouis)
+* **Email:** [louis@packetflow.be](mailto:louis@packetflow.be) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"PacketFlow brings enterprise-level IT reliability and security to your local business."
