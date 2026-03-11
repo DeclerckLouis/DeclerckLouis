@@ -5,9 +5,8 @@ I am a **Systems Engineer** and **IT Specialist** passionate about building reli
 ---
 
 ### 🚀 What I'm Up To
-* **Infrastructure Management:** Overseeing a distributed international network for **Haerens Group** (9 sites, 6 countries), managing everything from firewalls to servers and switches to ensure 24/7 connectivity.
 * **IT Consulting:** Providing reliable IT architectures and financial digitization workshops for SMBs through **PacketFlow**.
-* **Automation:** Developing "VM-on-request" solutions using **Ansible** and **Terraform** to reduce provisioning time by 80%.
+* **Automation:** Developing solutions using **Ansible** and **Terraform**.
 
 ---
 
