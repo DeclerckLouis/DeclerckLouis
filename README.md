@@ -26,7 +26,7 @@ I enjoy exploring the possibilities of **Self-healing infrastructure** using Zab
 ---
 
 ### 📫 Connect with Me
-* **Website:** [packetflow.be](https://packetflow.be)
+* **Website:** [packetflow.be](https://www.packetflow.be)
 * **LinkedIn:** [linkedin.com/in/declercklouis](https://www.linkedin.com/in/declercklouis)
 * **Email:** [louis@packetflow.be](mailto:louis@packetflow.be) 
 
