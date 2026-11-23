@@ -27,7 +27,7 @@ I build and run the infrastructure that production depends on: virtualization on
 
 ## Background
 
-Electromechanics, then a graduate degree in Systems & Network Engineering at Howest (2024). Proxmox VE training: Deployment and Management, and Clustering and Shared Storage (2026).
+Electromechanics, then a graduate degree in Systems & Network Engineering at Howest (2024). Certified for Proxmox VE: Deployment and Management, and Clustering and Shared Storage (2026).
 
 ## Contact
 
