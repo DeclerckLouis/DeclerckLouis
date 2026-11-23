@@ -1,33 +1,36 @@
-# Hi, I'm Louis Declerck 👋
+# Louis Declerck
 
-I am a **Systems Engineer** and **IT Specialist** passionate about building reliable infrastructure, breaking things in my homelab to learn how they work, and automating everything in between. I specialize in **Infrastructure as Code (IaC)**, **Site Reliability Engineering (SRE)**, and **Network Security**.
+I build and run the infrastructure that production depends on: virtualization on Proxmox VE, monitoring with Zabbix, and the network and servers under SCADA and MES. I run [Packetflow](https://www.packetflow.be) and do most of this work as code.
 
----
+## What I work on
 
-### 🚀 What I'm Up To
-* **IT Consulting:** Providing reliable IT architectures and financial digitization workshops for SMBs through **PacketFlow**.
-* **Automation:** Developing solutions using **Ansible** and **Terraform**.
+- **VMware to Proxmox VE migrations.** 350+ VMs moved in my career so far, on existing hardware and outside working hours, with the old environment kept as the way back.
+- **OT infrastructure.** Clusters, IEC 62443 zones, vendor access, backup with a tested restore. PLC programming stays with the integrator.
+- **Monitoring.** Zabbix with a proxy per site, trigger dependencies so one failure gives one alert, everything in Ansible.
 
----
+## Open source
 
-### 🛠️ Technical Toolkit
-* **IaC & Automation:** Ansible (Event-Driven), Terraform, Python, Bash, PowerShell.
-* **Virtualization & Orchestration:** Proxmox VE, Kubernetes (k3s), Docker.
-* **Networking:** Fortinet Firewalls, Cilium CNI, IPv6 Routing, NIS2 Compliance.
-* **Identity & Monitoring:** Active Directory/Entra ID, FreeIPA, Zabbix, Netbox.
+| Project | What it does |
+| --- | --- |
+| [netbox-ot](https://github.com/Packetflow-be/netbox-ot) | NetBox plugin for OT: asset register, IEC 62443 zones and conduits, flows, risk and an access map. On PyPI, with a [public demo](https://netbox-ot.packetflow.be). |
+| [netbox-access-paths](https://github.com/Packetflow-be/netbox-access-paths) | NetBox plugin that records who can reach which system, with review sign-off. |
+| [ot-devicetypes](https://github.com/Packetflow-be/ot-devicetypes) | NetBox device and module types generated from PROFINET GSDML files. |
+| [netbox_EDA_terraform](https://github.com/DeclerckLouis/netbox_EDA_terraform) | My 2024 graduation project: NetBox as source of truth, Event-Driven Ansible and Terraform building VMs on Proxmox. |
 
----
+## Tools
 
-### 🏠 Homelab & Projects
-I enjoy exploring the possibilities of **Self-healing infrastructure** using Zabbix and Event-Driven Ansible.
-* 📖 **Homelab Documentation:** [lab.packetflow.be](https://lab.packetflow.be)
-* 🛰️ **Ongoing Study:** Advanced training on IPv6 addressing and migration strategies at Howest.
+- **Virtualization:** Proxmox VE, Proxmox Backup Server, VMware vSphere, Hyper-V
+- **Automation:** Ansible, NetBox, Terraform, Packer, GitHub Actions, Python, Bash
+- **Monitoring:** Zabbix, SNMP, Grafana
+- **Network:** FortiGate, MikroTik, VLANs, IPv6, HAProxy, PowerDNS
+- **Systems:** Debian and Ubuntu, Windows Server, Active Directory, Veeam
 
----
+## Background
 
-### 📫 Connect with Me
-* **Website:** [packetflow.be](https://www.packetflow.be)
-* **LinkedIn:** [linkedin.com/in/declercklouis](https://www.linkedin.com/in/declercklouis)
-* **Email:** [louis@packetflow.be](mailto:louis@packetflow.be) 
+Electromechanics, then a graduate degree in Systems & Network Engineering at Howest (2024). Proxmox VE training: Deployment and Management, and Clustering and Shared Storage (2026).
 
-"PacketFlow brings enterprise-level IT reliability and security to your local business."
+## Contact
+
+- [packetflow.be](https://www.packetflow.be)
+- [linkedin.com/in/declercklouis](https://www.linkedin.com/in/declercklouis)
+- [louis@packetflow.be](mailto:louis@packetflow.be)
